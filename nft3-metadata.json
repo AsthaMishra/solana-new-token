@@ -1,0 +1,6 @@
+{
+    "name": "My NFT",
+    "symbol": "NFT",
+    "description": "This is Test NFT",
+    "image": "https://raw.githubusercontent.com/AsthaMishra/solana-new-token/main/view.jpg"
+}
